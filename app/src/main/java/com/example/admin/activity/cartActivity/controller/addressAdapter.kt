@@ -48,3 +48,5 @@ class addressAdapter(val activity: cartActivity, val addressList: ArrayList<DBAd
     }
 
 }
+
+    
