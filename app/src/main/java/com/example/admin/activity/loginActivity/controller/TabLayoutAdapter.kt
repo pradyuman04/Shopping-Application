@@ -23,3 +23,4 @@ class TabLayoutAdapter(val activity: loginActivity,val supportFragmentManager: F
 
     }
 }
+
