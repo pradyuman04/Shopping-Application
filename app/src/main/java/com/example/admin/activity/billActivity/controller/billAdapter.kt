@@ -50,3 +50,4 @@ class billAdapter(val activity: billActivity, val billList: ArrayList<DBCartProd
 
     }
 }
+
