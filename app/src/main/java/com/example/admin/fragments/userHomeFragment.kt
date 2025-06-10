@@ -199,3 +199,4 @@ class userHomeFragment : Fragment() {
         binding.categoryRecyclerView.layoutManager = layoutManager
     }
 }
+
