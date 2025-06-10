@@ -123,3 +123,5 @@ class cartAdapter(val activity: cartActivity, val cartList: ArrayList<DBCartProd
 
     }
 }
+
+    
