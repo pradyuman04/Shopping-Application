@@ -9,3 +9,5 @@ data class DBInsertProduct(
     val pimage : String,
     val pdis : String
 )
+
+
