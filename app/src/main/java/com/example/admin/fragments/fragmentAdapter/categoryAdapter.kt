@@ -59,3 +59,4 @@ class categoryAdapter(val activity: FragmentActivity?,val categoryList: ArrayLis
 
     }
 }
+
