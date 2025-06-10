@@ -26,3 +26,4 @@
             app:destination="@id/FirstFragment" />
     </fragment>
 </navigation>
+
